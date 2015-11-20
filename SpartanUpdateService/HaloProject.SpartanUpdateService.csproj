@@ -7,7 +7,7 @@
     <ProjectGuid>{8A37DAA3-BCB7-4FC0-9ED9-9B5FA9B938E4}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>SpartanUpdateService</RootNamespace>
+    <RootNamespace>HaloProject.SpartanUpdateService</RootNamespace>
     <AssemblyName>SpartanUpdateService</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>

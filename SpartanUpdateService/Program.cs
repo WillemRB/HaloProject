@@ -1,6 +1,6 @@
 ﻿using Topshelf;
 
-namespace SpartanUpdateService
+namespace HaloProject.SpartanUpdateService
 {
     public class Program
     {

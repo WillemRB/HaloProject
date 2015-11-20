@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace SpartanUpdateService
+namespace HaloProject.SpartanUpdateService
 {
     public class SpartanUpdater : IDisposable
     {
