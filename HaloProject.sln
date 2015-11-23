@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
 VisualStudioVersion = 12.0.31101.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HaloProject.SpartanUpdateService", "SpartanUpdateService\HaloProject.SpartanUpdateService.csproj", "{8A37DAA3-BCB7-4FC0-9ED9-9B5FA9B938E4}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HaloProject.SpartanUpdateService", "HaloProject.SpartanUpdateService\HaloProject.SpartanUpdateService.csproj", "{8A37DAA3-BCB7-4FC0-9ED9-9B5FA9B938E4}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HaloProject.Common", "HaloProject.Common\HaloProject.Common.csproj", "{5F93AFA9-F1D6-4E97-9A53-74080EFE885F}"
 EndProject
